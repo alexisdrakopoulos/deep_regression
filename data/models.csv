@@ -1,0 +1,5 @@
+﻿GPU,Iteration,Model Type,Activation,Dropout,Batchnorm,Batchnorm Order,Batch Size,Learning Rate,Sparse
+0,54,regression,relu,TRUE,FALSE,after,128,0.0002,FALSE
+1,55,regression,relu,TRUE,FALSE,after,128,0.0002,FALSE
+2,56,regression,relu,FALSE,TRUE,after,128,0.0002,FALSE
+3,57,regression,relu,FALSE,TRUE,after,128,0.0002,FALSE
